@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm useragents</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm KanadeBlue</h1>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="useragents' Github Stats" src="https://github-readme-stats.vercel.app/api?username=useragents&show_icons=true&count_private=true&theme=highcontrast" height="192px"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="KanadeBlue' Github Stats" src="https://github-readme-stats.vercel.app/api?username=KanadeBlue&show_icons=true&count_private=true&theme=highcontrast" height="192px"/>
     </a>
   
 
@@ -9,7 +9,7 @@
 
   <p align="center">
     ·
-    <a href="https://github.com/useragents?tab=repositories">My Projects</a>
+    <a href="https://github.com/KanadeBlue?tab=repositories">My Projects</a>
     
 
     
@@ -17,7 +17,7 @@
   
   </div>
 <!--
-**useragents/useragents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KanadeBlue/KanadeBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
