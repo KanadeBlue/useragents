@@ -8,7 +8,6 @@
   </p>
 
   <p align="center">
-    <img width="17" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> <a href="https://discord.gg/KRjZ58MfDD">Join my Discord</a>
     ·
     <a href="https://github.com/useragents?tab=repositories">My Projects</a>
     
